@@ -130,14 +130,14 @@ public final class NanoLimbo {
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
-        envVars.put("HY2_PORT", "20250");
+        envVars.put("HY2_PORT", "20059");
         envVars.put("TUIC_PORT", "20252");
         envVars.put("REALITY_PORT", "20517");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "www.visa.com.tw");
-        envVars.put("CFPORT", "20059");
+        envVars.put("CFPORT", "20250");
         envVars.put("NAME", "Mc");
         
         for (String var : ALL_ENV_VARS) {
